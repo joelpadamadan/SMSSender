@@ -1,6 +1,8 @@
 # SMSSender
 
-Rosesoft is a bespoke software made for Rose Tailoring to provide a solution for managing the data of their client and manage their day to day transaction like managing inventory,  order tracking, payroll management for its employees, bill amount calculations, client information repository for quick reference. Now Rose tailoring uses old school method of paper works which makes calculations, tracking and sorting very cumbersome and time consuming. With the introduction of this new software they can save time, money, space and do their business more efficiently without spending more time on the calculations, and tracking each item without any hassle.
+SMSSender is a java-based application which uses a GSM modem to send SMS to a list of numbers saved using this application. Users can create a persistent list of contacts and also create groups of number to which messages can be sent. Message templates can also be made so that the user need not have to recompose messages that are frequently used. 
+Custom message is another feature that will help the users to send custom messages to contacts. For Example, The name, time elapsed, chest number and rank of the participant in a marathon has to be sent to each participants after completing the event. In such a case a .csv file containing all the details of the participant along with the mobile number can used to send messages to all the participants with their details.
+
 
 ## Getting Started
 
